@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+The Ortiz family migration story demonstrates how Hispanic communities in the American Southwest were established long before the creation of the United States. Beginning with Nicolás Ortiz Niño Ladrón de Cabrera's migration from Mexico City to New Mexico in 1694 as part of Spain's effort to recolonize New Mexico after the Pueblo Revolt, the family's history reflects larger themes in U.S. immigration history, including colonial settlement, land grants, cultural blending between Spanish and Indigenous peoples, and internal migration for economic opportunity. The Ortiz family's experiences show how generations of Hispanic families adapted to major political and social changes while maintaining their cultural identity in New Mexico. 
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
